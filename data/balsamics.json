@@ -3,7 +3,7 @@
         {
             "name": "Elderflower Balsamic",
             "tags": ["balsamic", "sweet", "floral", "white", "desserts", "Italian", "young", "mild"],
-            "image": "../images/balsamics/elderflower.webp",
+            "image": "/images/balsamics/elderflower.webp",
             "description": "This delicate Elderflower white Balsamic Vinegar, is both crispy and juicy with an intensely floral aroma of honeysuckle flowers. We have married the lovely floral characteristics of this cream-colored flower heads with our Ultra Premium White Condimento. The resulting collaboration is an intoxicating burst of unique flavor; bright, clean, and absolutely delicious! Great with seafood, grilled chicken/poultry, pork, in sparkling water as a spritzer, in cocktails, ice teas, as a glaze, in marinades and dressings.",
             "pairings": []
         },
